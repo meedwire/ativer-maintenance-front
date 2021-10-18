@@ -1,24 +1,24 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.d3ce5289.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.d3ce5289.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.bacfc5c3.chunk.js": "/expo-gh-pages/static/js/2.bacfc5c3.chunk.js",
-    "static/js/2.bacfc5c3.chunk.js.map": "/expo-gh-pages/static/js/2.bacfc5c3.chunk.js.map",
-    "fonts/AntDesign.ttf": "/expo-gh-pages/./fonts/AntDesign.ttf",
-    "fonts/FontAwesome.ttf": "/expo-gh-pages/./fonts/FontAwesome.ttf",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.bacfc5c3.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.bacfc5c3.chunk.js.LICENSE.txt"
+    "app.js": "/ativer-maintenance-front/static/js/app.d3ce5289.chunk.js",
+    "app.js.map": "/ativer-maintenance-front/static/js/app.d3ce5289.chunk.js.map",
+    "runtime~app.js": "/ativer-maintenance-front/static/js/runtime~app.8f18227e.js",
+    "runtime~app.js.map": "/ativer-maintenance-front/static/js/runtime~app.8f18227e.js.map",
+    "static/js/2.d2d342a1.chunk.js": "/ativer-maintenance-front/static/js/2.d2d342a1.chunk.js",
+    "static/js/2.d2d342a1.chunk.js.map": "/ativer-maintenance-front/static/js/2.d2d342a1.chunk.js.map",
+    "fonts/AntDesign.ttf": "/ativer-maintenance-front/./fonts/AntDesign.ttf",
+    "fonts/FontAwesome.ttf": "/ativer-maintenance-front/./fonts/FontAwesome.ttf",
+    "favicon-16.png": "/ativer-maintenance-front/favicon-16.png",
+    "favicon-32.png": "/ativer-maintenance-front/favicon-32.png",
+    "favicon.ico": "/ativer-maintenance-front/favicon.ico",
+    "index.html": "/ativer-maintenance-front/index.html",
+    "manifest.json": "/ativer-maintenance-front/manifest.json",
+    "serve.json": "/ativer-maintenance-front/serve.json",
+    "static/js/2.d2d342a1.chunk.js.LICENSE.txt": "/ativer-maintenance-front/static/js/2.d2d342a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.57d3d678.js",
-    "static/js/2.bacfc5c3.chunk.js",
+    "static/js/runtime~app.8f18227e.js",
+    "static/js/2.d2d342a1.chunk.js",
     "static/js/app.d3ce5289.chunk.js"
   ]
 }
