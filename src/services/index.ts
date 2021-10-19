@@ -1,16 +1,19 @@
-import axios from 'axios';
-import io, {Socket} from 'socket.io-client';
+import axios from "axios";
+import io, { Socket } from "socket.io-client";
 
-let socket: Socket = io('https://ativer-back-end.herokuapp.com', {
+const url = __DEV__
+  ? "http://127.0.0.1:5000"
+  : "https://ativer-back-end.herokuapp.com";
+
+let socket: Socket = io(url, {
   reconnection: true,
   reconnectionDelay: 500,
   reconnectionAttempts: Infinity,
-  transports: ['websocket'],
+  transports: ["websocket"],
   autoConnect: true,
   forceNew: true,
   requestTimeout: 1,
 });
-
 
 export function socketConnection() {
   socket = socket?.connected ? socket : socket.connect();
@@ -21,6 +24,5 @@ export function socketConnection() {
 //https://ativer-back-end.herokuapp.com
 
 export const api = axios.create({
-  baseURL: 'https://ativer-back-end.herokuapp.com',
+  baseURL: url,
 });
-
